@@ -1,0 +1,16 @@
+{
+  "name": "facebook_leadgen_receiver",
+  "version": "0.0.0",
+  "description": "facebook_leadgen_receiver",
+  "main": "facebook_leadgen_receiver.js",
+  "dependencies": {
+    "async": "~1.4.0",
+    "aws-sdk": "^2.1.42",
+    "bridg-node-sdk": "file:./bridg-node-sdk-1.2.2.tgz",
+    "config": "^1.21.0",
+    "lodash": "^4.16.1",
+    "moment": "^2.15.1",
+    "parse-filepath": "0.6.3",
+    "url": "^0.11.0"
+  }
+}

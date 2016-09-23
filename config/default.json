@@ -1,0 +1,24 @@
+{
+  "api": {
+    "version": "v1",
+    "host": "develop.dev-api.bridg.com",
+    "port": 80,
+    "proto": "http",
+    "credentials": {
+      "31548": "abf3a4br92eba54bggf42nsg8o96f8hije8f42nsktg2"
+    }
+  },
+  "accountsMapping": {
+    "papamurphys": 31548
+  },
+  "aws": {
+    "contactSubscriber": {
+      "maxAttempts": 5
+    },
+    "accessKeyId": "AKIAI2BRCE57OLKYXGYQ",
+    "secretAccessKey": "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",
+    "region": "us-east-1"
+  },
+  "dynamoDBTable": "facebook_leadgen",
+  "clientCode": "papamurphys"
+}
